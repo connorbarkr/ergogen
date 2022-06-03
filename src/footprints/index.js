@@ -7,6 +7,7 @@ module.exports = {
 	feather: require('./feather'),
     jstph: require('./jstph'),
     jumper: require('./jumper'),
+	mount: require('./mount'),
 	mx_stabilizer: require('./mx_stabilizer'),
     mx: require('./mx'),
     oled: require('./oled'),
